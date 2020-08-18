@@ -7,3 +7,5 @@ This has been one of the projects built with HTML and CSS for the *Responsive We
 - HTML
 - CSS
 - VSCode
+
+## View [Live](https://codepen.io/laura-rodd/full/ZEbBJNR)
